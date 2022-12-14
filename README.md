@@ -1,5 +1,7 @@
 # COVID-19 Analysis and Forecasting
 
+***Notebook:** [covid19_prediction.ipynb](https://nbviewer.org/github/kHarshit/COVID19_Forecasting/blob/main/covid19_prediction.ipynb)*
+
 ## Problem Description
 
 COVID-19 spreads faster than any other disease and has an exponential growth rate around the
