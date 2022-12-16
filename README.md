@@ -22,7 +22,7 @@ The Novel Corona Virus 2019 Dataset is available from [redivis](https://redivis.
 
 1. Clone this repo `git clone https://github.com/kHarshit/COVID19_Forecasting.git`
 2. Download dataset from [redivis](https://redivis.com/datasets/yn0q-4ff57142y).
-3. Install dependencies using `pip -r requirements.txt`
+3. Install dependencies using `pip install -r requirements.txt`
 4. Execute the commands in the jupyter notebook `covid19_prediction.ipynb`.
 
 
